@@ -1,6 +1,6 @@
 Hawkeye: Malware Detection System
 
-Hawkeye is a lightweight, open-source malware detection and neutralization system built with Python. It leverages the YARA engine for pattern matching to detect threats and uses system-level commands to actively neutralize malicious processes and quarantine files.
+Hawkeye is a lightweight, open-source malware detection and neutralization system built with Python and AI. It leverages the YARA engine for pattern matching to detect threats and uses system-level commands to actively neutralize malicious processes and quarantine files.
 Unlike traditional "black box" antiviruses, Hawkeye is fully transparent and customizable, allowing security researchers and administrators to write their own detection rules.
 
 🚀 Key Features
